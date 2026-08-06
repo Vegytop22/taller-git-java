@@ -1,12 +1,12 @@
-Nombre del trabajo: Taller Git y Github básico 
+<b>Nombre del trabajo:</b> Taller Git y Github básico 
 
-Autor: Edisson David Ramirez Guevara
+<b>Autor:</b> Edisson David Ramirez Guevara
 
-Descripción: Este es un programa que pide el nombre del usuario para darle un saludo personalizado y despedirse
+<b>Descripción:</b> Este es un programa que pide el nombre del usuario para darle un saludo personalizado y despedirse
 
-Aprendizaje: Entendí como usar de una mejor manera Intelij, a su vez, utilice nuevas herramientas de git que me permitieron trabajar el código de una manera más organizada y eficiente.
+<b>Aprendizaje:</b> Entendí como usar de una mejor manera Intelij, a su vez, utilice nuevas herramientas de git que me permitieron trabajar el código de una manera más organizada y eficiente.
 
-Comandos practicados: En este taller repase el uso de git add para stagear los archivos, git commit para agregarlos al repositorio,
+<b>Comandos practicados:</b> En este taller repase el uso de git add para stagear los archivos, git commit para agregarlos al repositorio,
 git branch con sus variantes para crear, borrar y moverme entre ramas, git merge para juntar el contenido de las diferentes 
 ramas en las que trabaje, git restore para sacar un archivo del stage y poder editarla, y git push para subir el repositorio 
 local a remoto.
