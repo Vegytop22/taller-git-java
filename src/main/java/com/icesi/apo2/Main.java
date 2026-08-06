@@ -10,6 +10,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Me podrias decir tu nombre porfa?: ");
         String nombre = sc.nextLine();
-        System.out.println("Hola " + nombre + " :)");
+        System.out.println("Hola " + nombre + "!");
+        System.out.println("Nos vemos despus :)");
     }
 }
